@@ -2,14 +2,14 @@ _This template was created based on the work of [`udemy-dl`](https://github.com/
 
 **In raising this issue, I confirm the following (please check boxes, eg [X]):**
 
-- [ ] I have read and understood the [contributors guide](https://github.com/pi-hole/pi-hole/blob/master/CONTRIBUTING.md).
-- [ ] The issue I am reporting can be *replicated*
-- [ ] The issue I'm reporting isn't a duplicate (see [FAQs](https://github.com/pi-hole/pi-hole/wiki/FAQs), [closed issues](https://github.com/pi-hole/pi-hole/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20), and [open issues](https://github.com/pi-hole/pi-hole/issues)).
+- [x] I have read and understood the [contributors guide](https://github.com/pi-hole/pi-hole/blob/master/CONTRIBUTING.md).
+- [] The issue I am reporting can be *replicated*
+- [] The issue I'm reporting isn't a duplicate (see [FAQs](https://github.com/pi-hole/pi-hole/wiki/FAQs), [closed issues](https://github.com/pi-hole/pi-hole/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20), and [open issues](https://github.com/pi-hole/pi-hole/issues)).
 
 **How familiar are you with the codebase?:**
 
-- [ ] 1 (very unfamiliar)
-- [ ] 2
+- [] 1 (very unfamiliar)
+- [x] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
@@ -22,13 +22,15 @@ _This template was created based on the work of [`udemy-dl`](https://github.com/
 ---
 **[FEATURE REQUEST | QUESTION | OTHER]:**
 
-_{replace this section with your content or delete if not a FEATURE REQUEST/QUESTION/OTHER}_
+I noticed DNS hosip request takes some time to skip the ads. Why not we use 0.0.0.0 ( non-routable address) ?
 
 **[BUG | ISSUE] Expected Behaviour:**
 
 
+
 **[BUG | ISSUE] Actual Behaviour:**
 
+Youtube ads are still not blocked perfectly. I think since we are using dns.Is that regex is possible ?
 
 **[BUG | ISSUE] Steps to reproduce:**
 
