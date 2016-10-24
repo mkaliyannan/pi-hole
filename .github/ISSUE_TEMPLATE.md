@@ -2,14 +2,14 @@ _This template was created based on the work of [`udemy-dl`](https://github.com/
 
 **In raising this issue, I confirm the following (please check boxes, eg [X]):**
 
-- [ ] I have read and understood the [contributors guide](https://github.com/pi-hole/pi-hole/blob/master/CONTRIBUTING.md).
+- [x] I have read and understood the [contributors guide](https://github.com/pi-hole/pi-hole/blob/master/CONTRIBUTING.md).
 - [ ] The issue I am reporting can be *replicated*
 - [ ] The issue I'm reporting isn't a duplicate (see [FAQs](https://github.com/pi-hole/pi-hole/wiki/FAQs), [closed issues](https://github.com/pi-hole/pi-hole/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20), and [open issues](https://github.com/pi-hole/pi-hole/issues)).
 
 **How familiar are you with the codebase?:**
 
 - [ ] 1 (very unfamiliar)
-- [ ] 2
+- [x] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
@@ -21,8 +21,7 @@ _This template was created based on the work of [`udemy-dl`](https://github.com/
 
 ---
 **[FEATURE REQUEST | QUESTION | OTHER]:**
-
-_{replace this section with your content or delete if not a FEATURE REQUEST/QUESTION/OTHER}_
+I noticed hostip make delays on youtube ads or other requests , why not upgraded to 0.0.0.0. so this won't make delay. Noticed few of youtube ads are not blocking.
 
 **[BUG | ISSUE] Expected Behaviour:**
 
